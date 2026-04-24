@@ -3,11 +3,15 @@ An Adjustable linear powersupply using the PIC16F1778 with current limiting. Pro
 
 Features: 
 
+GLCD:ST7735 but it could easily be a smaller one.
+
 Adjustable Current Limit using encoders.
 
 Adjustable Voltage using encoders.
 
 Clicking the Voltage Adjust knob inward selects either a x1 or x10 multiplier to make adjustment faster. 
+
+Clicking the Current Adjust knob switches between two pre-set voltages, 3.3V and 5V.
 
 The PIC is mostly for displaying voltage and current. The actual control is all done by the op-amp
 
