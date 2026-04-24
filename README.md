@@ -1,11 +1,11 @@
 # Bench-Top-Power-Supply
-An Adjustable linear powersupply with current limiting. Program is done in Great Cow Basic. 
+An Adjustable linear powersupply using the PIC16F1778 with current limiting. Program is done in Great Cow Basic. 
 
 Features: 
 
-Adjustable Current Limit
+Adjustable Current Limit using encoders.
 
-Adjustable Voltage. 
+Adjustable Voltage using encoders.
 
 Clicking the Voltage Adjust knob inward selects either a x1 or x10 multiplier to make adjustment faster. 
 
