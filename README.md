@@ -1,5 +1,5 @@
 # Bench-Top-Power-Supply
-An Adjustable linear powersupply using the PIC16F1778 with current limiting. Program is done in Great Cow Basic. 
+An Adjustable linear powersupply using the PIC16F1778 with current limiting. Program is done in Great Cow Basic. The schematic was done in Eagle CAD.
 
 Features: 
 
