@@ -1,2 +1,12 @@
 # Bench-Top-Power-Supply
-An Adjustable powersupply with current limiting. Code is still be worked on as I am waiting for a larger PIC to come in. I ran out of memory for the GLCD. The PIC16F1773 is too small. 
+An Adjustable linear powersupply with current limiting. Program is done in Great Cow Basic. 
+
+Features: 
+
+Adjustable Current Limit
+
+Adjustable Voltage. 
+
+Clicking the Voltage Adjust knob inward selects either a x1 or x10 multiplier to make adjustment faster. 
+
+The PIC is mostly for displaying voltage and current. The actual control is all done by the op-amp
