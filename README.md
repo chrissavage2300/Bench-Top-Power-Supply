@@ -18,3 +18,5 @@ The PIC is mostly for displaying voltage and current. The actual control is all 
 ![Power Supply](https://github.com/chrissavage2300/Bench-Top-Power-Supply/blob/main/pics/20260423_074037.jpg?raw=true)
 
 ![Power Supply GLCD ON](https://github.com/chrissavage2300/Bench-Top-Power-Supply/blob/main/pics/20260422_195320.jpg?raw=true)
+
+![Power Supply Board](https://github.com/chrissavage2300/Bench-Top-Power-Supply/blob/main/pics/20260423_074049.jpg?raw=true)
