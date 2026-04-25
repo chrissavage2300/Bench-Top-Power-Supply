@@ -16,3 +16,5 @@ Clicking the Current Adjust knob switches between two pre-set voltages, 3.3V and
 The PIC is mostly for displaying voltage and current. The actual control is all done by the op-amp
 
 ![Power Supply](https://github.com/chrissavage2300/Bench-Top-Power-Supply/blob/main/pics/20260423_074037.jpg?raw=true)
+
+![Power Supply GLCD ON](https://github.com/chrissavage2300/Bench-Top-Power-Supply/blob/main/pics/20260422_195320.jpg?raw=true)
